@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash 
 if apt-get update;
 
 then
