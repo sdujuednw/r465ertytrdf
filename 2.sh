@@ -1,12 +1,12 @@
 #!/usr/bin/env bash 
-if apt-get update;
+apt-get update;
 
 then
 
 atualizando
 
 fi
-------------------------
+
 if apt install wget;
 
 then
@@ -14,7 +14,7 @@ then
 instalando wget
 
 fi
----------------------------
+
 if apt-get install unzip;
 
 then
@@ -22,7 +22,7 @@ then
 instalando unzip
 
 fi
-----------------------------
+
 if wget https://github.com/deepkker/xdsddsd/raw/master/6.zip;
 
 then
@@ -31,7 +31,7 @@ AÇÕES
 
 fi
 
-----------------------------
+
 if unzip 6.zip;
 
 then
